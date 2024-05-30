@@ -14,6 +14,8 @@ To analyze which types of content are most engaging, how viewing patterns change
 ## Findings:
 Top 10 categories with highest number of views.
 
+(https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/1.png)
+
 Top 5 categories with highest number of video.
 
 Details of video with highest number of views.
