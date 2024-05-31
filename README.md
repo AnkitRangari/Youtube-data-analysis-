@@ -13,7 +13,7 @@ Google sheet
 ## Findings:
 Top 10 categories with highest number of views.
 
-(https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/1.png)
+! (https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/1.png)
 
 Top 5 categories with highest number of video.
 
