@@ -10,20 +10,28 @@ To analyze which types of content are most engaging, how viewing patterns change
 ## Tool Used 
 Google sheet 
 
+## Dashboard 
+![img](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/Dashboard.png)
+
 ## Findings:
-Top 10 categories with highest number of views.
+#### Question 1: Top 10 categories with highest number of views.
 
-! (https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/1.png)
+![img](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/1.png)
 
-Top 5 categories with highest number of video.
+#### Question 2: Top 5 categories with highest number of video.
+![img2](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/2.png)
 
-Details of video with highest number of views.
+#### Question 3: Details of video with highest number of views.
+![img3](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/3.png)
 
-Average views for each month.
+#### Question 4: Average views for each month.
+![img4](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/4.png)
 
-Average views for each channel title.
+#### Question 5: Average views for each channel title.
+![img5](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/5.png)
 
+#### Question 6: On which date maximum number of videos is published.
+![img6](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/7.png)
 
-On which date maximum number of videos is published.
-
-Most watched channels.
+#### Question 7 :Most watched channels.
+![img7](8.png)
