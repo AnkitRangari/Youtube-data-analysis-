@@ -11,8 +11,7 @@ To analyze which types of content are most engaging, how viewing patterns change
 Google sheet 
 
 ## 📈Dashboard 
-
-
+![img](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/Dashboard%20YT.png)
 
 ## 🔍Findings:
 #### Question 1: Top 10 categories with highest number of views.
