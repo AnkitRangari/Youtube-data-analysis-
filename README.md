@@ -4,10 +4,11 @@ A complete google sheet based project
 
 ## 📊Problem Statement:
 To analyze video data repository to gain valuable insights into content performance, viewer behavior, and trends across different categories.
+
 ## Objective:
 To analyze which types of content are most engaging, how viewing patterns change over time, and which channels lead in viewership.
 
-## ➡️Tool Used 
+## 🔧Tool Used 
 Google sheet 
 
 ## 📈Dashboard 
