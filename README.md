@@ -30,8 +30,11 @@ Google sheet
 #### Question 5: Average views for each channel title.
 ![img5](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/5.png)
 
-#### Question 6: On which date maximum number of videos is published.
+#### Question 6: Sum of views by each category 
+![img6](6.png)
+
+#### Question 7: On which date maximum number of videos is published.
 ![img6](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/7.png)
 
-#### Question 7 :Most watched channels.
+#### Question 8 :Most watched channels.
 ![img7](8.png)
