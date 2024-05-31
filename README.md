@@ -10,7 +10,7 @@ To analyze which types of content are most engaging, how viewing patterns change
 ## ➡️Tool Used 
 Google sheet 
 
-## ➡️Dashboard 
+## 📈Dashboard 
 ![img](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/YT%20Dashboard.png)
 
 ## 🔍Findings:
