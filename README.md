@@ -2,18 +2,18 @@
 # Youtube Data Analysis 
 A complete google sheet based project  
 
-## Problem Statement:
+## ➡️ Problem Statement:
 To analyze video data repository to gain valuable insights into content performance, viewer behavior, and trends across different categories.
 ## Objective:
 To analyze which types of content are most engaging, how viewing patterns change over time, and which channels lead in viewership.
 
-## Tool Used 
+## ➡️ Tool Used 
 Google sheet 
 
-## Dashboard 
+## ➡️Dashboard 
 ![img](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/YT%20Dashboard.png)
 
-## Findings:
+## ➡️Findings:
 #### Question 1: Top 10 categories with highest number of views.
 
 ![img](https://github.com/AnkitRangari/Youtube-data-analysis-/blob/main/1.png)
